@@ -1,0 +1,22 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.06"]
+[Round "?"]
+[White "FizzyMirror"]
+[Black "L4zaros"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "713"]
+[BlackElo "686"]
+[TimeControl "900+10"]
+[EndTime "4:38:44 PDT"]
+[Termination "FizzyMirror won by checkmate"]
+
+1. e4 c5 2. Bc4 d6 3. Bb5+ Bd7 4. a4 a6 5. Bc4 e5 6. Nc3 g5 7. Qh5 d5 8. Nxd5
+Be6 9. Nf3 Nf6 10. Qxg5 Nxe4 11. Qxe5 Nd6 12. Qxh8 Nxc4 13. Nf6+ Ke7 14. Nxh7
+Nd7 15. d3 Qa5+ 16. c3 Nd6 17. Bg5+ f6 18. Bxf6+ Nxf6 19. Nxf6 Nf7 20. Qh4 Bg7
+21. Nh5+ Kf8 22. Nxg7 Kxg7 23. Qe7 Bf5 24. Ne5 Bg6 25. Nxf7 Bxf7 26. O-O Re8 27.
+Qxb7 c4 28. dxc4 Kf6 29. Qc6+ Re6 30. Qf3+ Qf5 31. Qxf5+ Kxf5 32. Rae1 Rb6 33.
+c5 Rxb2 34. c6 Rb8 35. Re7 Kf6 36. c7 Rc8 37. Rfe1 Re8 38. Rxe8 Bxe8 39. c8=Q
+Bxa4 40. Qd8+ Kf5 41. Qd5+ Kf4 42. Qe4+ Kg5 43. Qxa4 a5 44. Qxa5+ Kh4 45. Re4#
+1-0
